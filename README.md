@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @c-reghiment
+- 👀 I’m interested in AI, data science, cybersecuyrity
+- 🌱 I’m currently learning AI, multiagent systems
